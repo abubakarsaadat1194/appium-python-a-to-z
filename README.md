@@ -25,25 +25,6 @@
 21. [Interview Questions](#21-appium-interview-questions)
 
 ---
-
-This repository documents Appium automation using Python from beginner to advanced level.
-
-It covers:
-
-- Appium setup
-- Desired capabilities
-- Locators
-- Actions
-- Gestures
-- Waits
-- Page Object Model
-- Real device testing
-- Emulator testing
-- Best practices
-- Example automation framework
-
----
-
 This repository documents Appium automation using Python from beginner to advanced level.
 
 The goal of this project is to cover everything required for mobile automation:
