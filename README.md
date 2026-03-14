@@ -44,38 +44,6 @@ It covers:
 
 ---
 
-## 1. Appium Setup
-
-## 2. Python Client
-
-## 3. Project Structure
-
-## 4. Driver Initialization
-
-## 5. Appium Locators
-
-## 6. Waits
-
-## 7. Actions
-
-## 8. Gestures
-
-## 9. Appium Commands
-
-## 10. Android Concepts
-
-## 11. Page Object Model
-
-## 12. Example Tests
-
-## 13. Best Practices
-
-## 14. Troubleshooting
-
-## 15. Useful ADB Commands
-
-# Appium with Python — A to Z Guide
-
 This repository documents Appium automation using Python from beginner to advanced level.
 
 The goal of this project is to cover everything required for mobile automation:
